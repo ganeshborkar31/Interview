@@ -6,8 +6,19 @@ I also have strong interest in AI technologies such as Generative AI, Retrieval-
 
 Overall, I enjoy building scalable backend systems and intelligent applications using Python.
 
+
+
+
+
+
+
+
+
 What is RAG?
 
 You can say:
 
 Retrieval-Augmented Generation is an approach where large language models retrieve relevant information from external data sources such as vector databases before generating responses, which improves accuracy and reduces hallucinations.
+
+
+Generators in Python are special functions that allow you to create iterators in a memory-efficient way by using the yield statement. They enable you to iterate over a sequence of values without storing the entire sequence in memory, making them useful for handling large datasets or streams of data.
